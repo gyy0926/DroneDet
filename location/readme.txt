@@ -1,0 +1,2 @@
+adata folder: Locate a WiFi drone in four scenarios. 10 times for each scenario.
+b16mdata folder: Collect 10 times CSI data at each scenario and the distance between the smartphone and the drone is 16m.
