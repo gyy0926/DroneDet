@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_scan"
+        android:title="LocDrone"
+        android:icon="@android:drawable/ic_menu_search"/>
+
+    <item
+        android:id="@+id/nav_csi"
+        android:title="CSI Data"
+        android:icon="@android:drawable/ic_menu_preferences"/>
+
+    <item
+        android:id="@+id/nav_history"
+        android:title="History"
+        android:icon="@android:drawable/ic_menu_recent_history"/>
+
+</menu>
